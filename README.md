@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is João Paulo Medeiros de Morais and my nickname is "JP"!
 
