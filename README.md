@@ -1,11 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-#### Hello, I am João Paulo, a passionate programmer for technology and always seeking to optimize and simplify solutions through code. I was born in Brasília and #### currently live in Natal, but always keep my passion for programming alive.
-
-#### I specialize in frontend, especially with React, Next and typescript, but also have advanced knowledge in Node, backend, unit tests, cleancode and others. In #### addition to technical skills, I am a communicative person, resilient and always seek to develop my personal and professional skills.
-
-#### Since April 2020, I have been working as a programmer and am always looking for new challenges and learning opportunities. It all started in 2016 when I had my #### first contacts with the C language, since then, I have been specializing and constantly seeking improvement.
-
-#### My experience and skills combined allow me to develop high-quality and efficient solutions.
+#### Hello, I am João Paulo, a passionate programmer for technology and always seeking to optimize and simplify solutions through code. I was born in Brasília and  currently live in Natal, but always keep my passion for programming alive.
 
 #### So... let's create something?
 
